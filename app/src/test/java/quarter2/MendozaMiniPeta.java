@@ -1,8 +1,8 @@
 package quarter2;
 import org.junit.Test;
-public class MendozaMinipeta {
+public class MendozaMiniPeta {
     @Test
-    public void printmyProfile() {
+    public void printMyProfile() {
         String myName = "Edmark";
         String petName = "Destroyah";
         String favFood = "Kare-kare";
