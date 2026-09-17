@@ -3,7 +3,7 @@ import org.junit.Test;
 public class MendozaMiniPeta {
     @Test
     public void printMyProfile() {
-        String myName = "Edmark";
+        String myName = "Edmark E. Mendoza";
         String petName = "Destroyah";
         String favFood = "Kare-kare";
         int myAge = 17;
