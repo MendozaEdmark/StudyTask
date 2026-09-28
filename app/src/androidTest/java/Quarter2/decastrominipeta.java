@@ -2,6 +2,7 @@ package Quarter2;
 
 import org.junit.Test;
 public class decastrominipeta {
+    @Test
     public void printMyProfile() {
         String myName = "Pat";
         String petName = "Uno";
