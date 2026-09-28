@@ -1,9 +1,7 @@
 package Quarter2;
 
 import org.junit.Test;
-
-public class DeCastroMiniPeta {
-    @Test
+public class decastrominipeta {
     public void printMyProfile() {
         String myName = "Pat";
         String petName = "Uno";
@@ -16,4 +14,3 @@ public class DeCastroMiniPeta {
         System.out.println("And one of my favorite food is " + favFood + ".");
     }
 }
-
