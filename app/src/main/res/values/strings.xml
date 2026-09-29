@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">StudyTask</string>
+    <string name="task_name_label">Task name</string>
+    <string name="task_name_hint">Enter your task name</string>
+    <string name="due_date_field_label">Due date</string>
+    <string name="due_date_hint">Enter due date (YYYY-MM-DD)</string>
+    <string name="pick_due_date">Pick due date</string>
+    <string name="add_task">Add task</string>
 </resources>
