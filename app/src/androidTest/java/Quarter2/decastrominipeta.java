@@ -1,13 +1,12 @@
-package q2;
+package Quarter2;
 
 import org.junit.Test;
-
-public class GarcellanoMiniPeta {
+public class decastrominipeta {
     @Test
     public void printMyProfile() {
-        String myName = "Zildjian Garcellano";
-        String petName = "Olivia";
-        String favFood = "Adobo";
+        String myName = "Pat";
+        String petName = "Uno";
+        String favFood = "Pizza";
         int myAge = 17;
 
         System.out.println("--- My Digital Profile ---");
