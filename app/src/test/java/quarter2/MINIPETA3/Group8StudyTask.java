@@ -1,5 +1,4 @@
 package quarter2.MINIPETA3;
-import java.io.ByteArrayInputStream;
 import java.util.Scanner;
 
 public class Group8StudyTask {
