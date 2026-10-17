@@ -6,4 +6,5 @@
     <string name="due_date_hint">Enter due date (YYYY-MM-DD)</string>
     <string name="pick_due_date">Pick due date</string>
     <string name="add_task">Add task</string>
+    <string name="Teacher">StudyTask</string>
 </resources>

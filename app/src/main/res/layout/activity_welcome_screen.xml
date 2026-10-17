@@ -12,16 +12,17 @@
         android:id="@+id/Welcome"
         android:layout_width="352dp"
         android:layout_height="50dp"
+        android:gravity="center"
         android:text="Welcome to StudyTask! "
         android:textColor="@color/black"
         android:textSize="30sp"
         android:textStyle="bold"
-        android:gravity="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.728"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.192" />
+        app:layout_constraintVertical_bias="0.317" />
 
     <Button
         android:id="@+id/Teacher"
@@ -50,7 +51,7 @@
         app:layout_constraintVertical_bias="0.559" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/Who"
         android:layout_width="291dp"
         android:layout_height="45dp"
         android:text="Are you a Student or a Teacher?"
@@ -62,4 +63,16 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.444" />
+
+    <ImageView
+        android:id="@+id/Logo"
+        android:layout_width="215dp"
+        android:layout_height="265dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.034"
+        app:srcCompat="@drawable/logo" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
