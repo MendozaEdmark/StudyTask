@@ -11,6 +11,6 @@ public class PrimaryUI extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.primary_ui);
+        setContentView(R.layout.activity_tasksubmissions);
     }
 }
